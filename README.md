@@ -5,7 +5,6 @@ A JavaScript-based tool to bulk delete your X/Twitter posts. This script allows 
 ## Features
 
 - Bulk delete tweets from your timeline
-- Support for advanced search queries
 - Automatic scrolling and deletion
 - Error handling and retry mechanisms
 - Progress logging in console
